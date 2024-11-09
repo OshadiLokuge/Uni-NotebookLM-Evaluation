@@ -27,6 +27,7 @@ The research paper was uploaded to NotebookLM, allowing it to process and analyz
 After uploading, the Document Summarization feature was activated. NotebookLM generated a concise summary covering the paper's main sections.
  
 The dashboard contains:
+
 •	An automatically generated summary of your uploaded documents
 
 •	Suggested questions you may want to ask that are tailored to your documents
